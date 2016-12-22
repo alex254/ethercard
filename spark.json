@@ -1,7 +1,7 @@
 {
-  "name": "Ethernet",
-  "author": "peekay123 <john@doe.io>",
+  "name": "Modbus Enc28J60",
+  "author": "john doe <john@doe.io>",
   "license": "BSD",
   "version": "0.0.10",
-  "description": "Arduino port of Ethernet library"
+  "description": "Modbus Enc28J60 library"
 }
