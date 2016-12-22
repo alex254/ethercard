@@ -1,5 +1,5 @@
 {
-  "name": "Modbus Enc28J60",
+  "name": "Ethercard",
   "author": "john doe <john@doe.io>",
   "license": "BSD",
   "version": "0.0.10",
